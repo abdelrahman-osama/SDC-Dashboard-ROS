@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abdelrahman/StudioProjects/rosjava_android_template/rosandroid-example-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/abdelrahman/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/68f74eb2cb5c4da8514198d9c5310207/res/values-or/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "102",
+                        "endOffsets": "307"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "106",
+                        "endOffsets": "157"
+                    }
+                }
+            ]
+        }
+    ]
+}

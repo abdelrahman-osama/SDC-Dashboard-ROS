@@ -1,0 +1,7 @@
+#Thu May 17 13:05:16 EET 2018
+base.0=/Users/abdelrahman/StudioProjects/rosjava_android_template/rosandroid-example-app/build/intermediates/transforms/dexMerger/debug/11
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/abdelrahman/StudioProjects/rosjava_android_template/rosandroid-example-app/build/intermediates/transforms/dexMerger/debug/11

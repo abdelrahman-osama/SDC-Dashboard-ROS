@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abdelrahman/StudioProjects/rosjava_android_template/rosandroid-example-app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/abdelrahman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d2874e259375efe2b2c377b65d0e26b/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "309",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "477"
+                    }
+                },
+                {
+                    "source": "/Users/abdelrahman/.gradle/caches/transforms-1/files-1.1/alerter-2.0.5.aar/8f01cdcef1d51f359a45aec5523093af/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "238"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "304"
+                    }
+                },
+                {
+                    "source": "/Users/abdelrahman/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/119615516205b0b0f832c8de12b674a2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
